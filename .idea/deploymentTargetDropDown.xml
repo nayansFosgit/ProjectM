@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="PurchaseE2ETest">
+        <State />
+      </entry>
+      <entry key="PurchaseE2ETestFlow">
+        <State />
+      </entry>
+      <entry key="PurchaseE2ETestFlowScenario">
+        <State />
+      </entry>
+      <entry key="app">
+        <State />
+      </entry>
+      <entry key="testPurchaseFlow()">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
